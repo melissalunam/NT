@@ -1,6 +1,6 @@
 Para esta actividad, utilicé la API pública: https://reqres.in/ . <br>
 En el programa Postman, puse la siguiente URL: https://reqres.in/api/users , para obtener con GET, todos los usuarios. <br> 
-El archivo JSON estará como Tarea2JSON.json . <br>
+El archivo JSON estará como Tarea2JSON.json (este sólo sirve para visualizar la API de una manera más ordenada).<br>
 El archivo PYTHON estará como Tarea2PYTHON.py .
 
 Para convertir el archivo de JSON a Python se hizo lo siguiente: <br> 
