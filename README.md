@@ -20,6 +20,7 @@ class Support:
         self.text = text
 
 ```
+>El objeto raíz:
 ```
 class Tarea:
     page: int
